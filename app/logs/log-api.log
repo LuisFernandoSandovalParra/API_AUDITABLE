@@ -1,0 +1,18 @@
+[2022-10-25 10:45:47] info: El usuario dba@correo.com ha generado un nuevo token.
+[2022-10-25 10:46:18] info: Se agrego el estudiante 1192423237
+[2022-10-25 10:46:21] info: Se ha accedido a la lista de los estudiantes.
+[2022-10-25 10:46:26] info: Se ha accedido a la lista de los estudiantes.
+[2022-10-25 10:46:29] info: Se ha eliminado el estudiante 1192423237
+[2022-10-25 10:46:32] error: Se ha intentado modificar un estudiante que no existe.
+[2022-10-25 10:46:36] error: La carrera que se ha intentado eliminar, no existe.
+[2022-10-25 10:47:20] info: Se agregó la carrera Pedriatria
+[2022-10-25 10:47:48] error: Se ha intentado agregar una carrera ya existente
+[2022-10-25 10:47:58] info: Se ha eliminado correctamente la carrera
+[2022-10-25 10:48:01] info: Se agregó la carrera Ingenieria de vias y transporte
+[2022-10-25 10:48:30] info: Servidor corriendo correctamente
+[2022-10-25 10:49:07] info: Servidor corriendo correctamente
+[2022-10-25 10:49:15] info: Servidor corriendo correctamente
+[2022-10-25 10:49:19] info: Servidor corriendo correctamente
+[2022-10-25 10:49:21] info: Servidor corriendo correctamente
+[2022-10-25 10:49:40] info: Servidor corriendo correctamente
+[2022-10-26 08:12:59] info: Servidor corriendo correctamente
